@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Login">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <com.smarteist.autoimageslider.SliderView
+        android:id="@+id/image_slider"
+        android:layout_width="match_parent"
+        android:layout_height="445dp"
+        android:background="@drawable/background_btn"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:sliderAnimationDuration="2000"
+        app:sliderAutoCycleDirection="back_and_forth"
+        app:sliderAutoCycleEnabled="true"
+        app:sliderIndicatorAnimationDuration="600"
+        app:sliderIndicatorGravity="center_horizontal|bottom"
+        app:sliderIndicatorMargin="15dp"
+        app:sliderIndicatorOrientation="horizontal"
+        app:sliderIndicatorPadding="3dp"
+        app:sliderIndicatorRadius="2dp"
+        app:sliderIndicatorSelectedColor="#5A5A5A"
+        app:sliderIndicatorUnselectedColor="#FFF"
+        app:sliderScrollTimeInSec="3"
+        app:sliderStartAutoCycle="true">
+
+    </com.smarteist.autoimageslider.SliderView>
+
+
+    <Spinner
+        android:id="@+id/spinner_language"
+
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:gravity="center_vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.909"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.034" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="161dp"
+        android:layout_height="61dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="25dp"
+        android:text="@string/startpoint_welcome"
+        android:textAlignment="center"
+        android:textColor="#101010"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.512"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.741" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="286dp"
+        android:layout_height="65dp"
+        android:layout_marginLeft="35dp"
+        android:text="@string/startpoint_protect_life_of_your_plant_with_the_application_easier_and_more_convenient_to_use"
+        android:textAlignment="center"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.512"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.834" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="156dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginStart="100dp"
+        android:background="@drawable/background_btn"
+        android:shadowColor="@color/black"
+        android:text="@string/startpoint_start"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.508"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.948" />
+
+</LinearLayout>
+
+
+
+</ScrollView>

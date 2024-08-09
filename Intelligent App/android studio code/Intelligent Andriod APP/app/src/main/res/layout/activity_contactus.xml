@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".HomeItems.Feedback">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include layout="@layout/main_toolbar" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white">
+
+            <EditText
+                android:id="@+id/edsubject"
+                android:layout_width="278dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="50dp"
+                android:background="@drawable/background_edittext"
+                android:drawableRight="@drawable/ic_subject"
+                android:ems="10"
+                android:hint="@string/contact_subject"
+                android:inputType="textPersonName"
+                android:padding="15dp" />
+
+            <EditText
+                android:id="@+id/edinfo"
+                android:layout_width="280dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="120dp"
+                android:background="@drawable/background_edittext"
+                android:drawableRight="@drawable/ic_info"
+                android:ems="10"
+                android:hint="@string/contact_message"
+                android:inputType="textPersonName"
+                android:padding="15dp"
+                android:textAlignment="textStart" />
+
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="280dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="320dp"
+                android:background="@drawable/background_btn"
+                android:onClick="submit"
+                android:text="@string/contact_submet"
+                android:textColor="#F1EBEB"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="138dp"
+                android:layout_height="37dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="760dp"
+                android:layout_marginBottom="5dp"
+                android:text="Phone Number: "
+                android:textColor="#446D54"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="257dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="160dp"
+                android:layout_marginTop="760dp"
+                android:text="+964 7700608801"
+                android:textColor="#0C29EC"
+                android:textSize="20dp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="@color/white">
+
+        <include layout="@layout/main_nav_drawer" />
+
+    </RelativeLayout>
+
+</androidx.drawerlayout.widget.DrawerLayout>

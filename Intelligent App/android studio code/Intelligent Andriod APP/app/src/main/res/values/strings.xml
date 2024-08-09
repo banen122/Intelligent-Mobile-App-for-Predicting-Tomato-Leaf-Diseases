@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">project name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="about_us_text">About Us</string>
+    <string name="about_us_guest">About Us</string>
+    <string name="contact_subject">Subject</string>
+    <string name="contact_message">Message</string>
+    <string name="contact_submet">SUBMIT</string>
+    <string name="crop_crop_information">Crop Information</string>
+    <string name="spiner_farm_name">Farm Name</string>
+    <string name="crop_done">Done</string>
+    <string name="farm_farm_information">Farm Information</string>
+    <string name="Edit_farm_name">Farm Name</string>
+    <string name="Edit_location">Location</string>
+    <string name="Edit_space">space</string>
+    <string name="Farm_next">Next</string>
+    <string name="guest_select">Select</string>
+    <string name="guest_upload">Upload</string>
+    <string name="guest_disease">Disease</string>
+    <string name="guest_no_output">no output</string>
+    <string name="guest_treatment">Treatment</string>
+    <string name="guest_clinic_center">Clinic Center</string>
+    <string name="home_select">Select</string>
+    <string name="home_upload">Upload</string>
+    <string name="home_disease">Disease</string>
+    <string name="home_no_output">no output</string>
+    <string name="home_treatment">Treatment</string>
+    <string name="home_clinic_center">Clinic Center</string>
+    <string name="inbox_message_from_server">Message From Server</string>
+    <string name="login_welcome_back">Welcome back</string>
+    <string name="login_login_to_your_account">Login to your account</string>
+    <string name="login_remember_me">Remember Me</string>
+    <string name="login_don_t_have_an_account">Don\'t have an account?</string>
+    <string name="login_sign_up">Sign up</string>
+    <string name="login_login">Login</string>
+    <string name="login_guest">Guest</string>
+    <string name="startpoint_welcome">Welcome</string>
+    <string name="startpoint_protect_life_of_your_plant_with_the_application_easier_and_more_convenient_to_use">Protect life of your plant with the application, easier and more convenient to use</string>
+    <string name="startpoint_start">Start</string>
+    <string name="custom_list_1">1</string>
+    <string name="custom_employee_name">Employee Name</string>
+    <string name="custom_empty_inbox">Empty Inbox !</string>
+    <string name="custom_list_item_topic">Topic</string>
+    <string name="custom_list_itemon_character_type_columns_sorting_like_all_other_comparison_operations_is_normally_performed_in_a_case_insensitive_fashion_this_means_that_the_order_is_undefined_for_columns_that_are_identical_except_for_their_case_you_can_force_a_case_sensitive_sort_for_a_column_by_using_binary_like_so_order_by_binary_col_name">On character type columns, sorting—like all other comparison operations—is normally performed in a case-insensitive fashion. This means that the order is undefined for columns that are identical except for their case. You can force a case-sensitive sort for a column by using BINARY like so: ORDER BY BINARY col_name.</string>
+    <string name="main_toolbar_mobile_intelligent">Mobile Intelligent</string>
+    <string name="progress_dialog_loading">Loading...</string>
+    <string name="register_already_have_an_account">Already have an account?</string>
+    <string name="register_register">Register</string>
+    <string name="register_create_your_new_account">Create your new account</string>
+    <string name="register_sign_up">Sign Up</string>
+    <string name="register_username">Username</string>
+    <string name="register_phone_number">Phone Number</string>
+    <string name="register_password">Password</string>
+    <string name="register_confirm_password">Confirm Password</string>
+    <string name="verify_insert_code">insert code</string>
+    <string name="verify_submit">Submit</string>
+    <string name="home_home">Home</string>
+    <string name="home_news">News</string>
+    <string name="home_history">History</string>
+    <string name="home_feedback">Feedback</string>
+    <string name="home_inbox">Inbox</string>
+    <string name="home_about">About Us</string>
+    <string name="home_logout">Logout</string>
+    <string name="guest_home">Home</string>
+    <string name="guest_about">About Us</string>
+    <string name="guest_logout">Logout</string>
+
+    <string name="chose_type">Choose the crop type</string>
+    <string name="typess">choose the type of plant</string>
+    <string name="plantty">choose the state</string>
+    <string name="messagewa">this project now support only Tomato</string>
+    <string name="fill">please fill the information</string>
+    <string name="logout">logout</string>
+    <string-array name="languegs">
+        <item>Languages</item>
+        <item>English</item>
+<item>Kurdish</item>
+        <item>Arabic</item>
+    </string-array>
+
+    <string-array name="type">
+       <item>Choose the crop type</item>
+        <item>Tomato</item>
+        <item>Radish</item>
+        <item>Green pepper</item>
+        <item>potatoes</item>
+    </string-array>
+
+    <string-array name="state">
+        <item>choose the state</item>
+        <item>coverd</item>
+        <item>uncoverd</item>
+    </string-array>
+
+    <string-array name="type_plant">
+        <item>choose the type of plant</item>
+        <item>winter</item>
+        <item>summer</item>
+    </string-array>
+
+</resources>

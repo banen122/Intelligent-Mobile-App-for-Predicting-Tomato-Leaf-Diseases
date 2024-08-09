@@ -1,0 +1,42 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 235 ciObject found
+ciMethod java/lang/Object <init> ()V 4097 1 1159443 0 96
+ciMethod java/lang/Object hashCode ()I 2049 1 256 0 -1
+ciMethod java/lang/Object equals (Ljava/lang/Object;)Z 2065 1 34823 0 -1
+ciMethod java/lang/String length ()I 4097 1 490289 0 64
+ciMethod java/lang/String isEmpty ()Z 2473 1 24888 0 64
+ciMethod java/lang/String equals (Ljava/lang/Object;)Z 3049 32769 12624 0 -1
+ciMethod java/lang/String equalsIgnoreCase (Ljava/lang/String;)Z 2049 1 5550 0 1824
+ciMethod java/lang/String regionMatches (ZILjava/lang/String;II)Z 889 401 6317 0 2112
+ciMethod java/lang/String startsWith (Ljava/lang/String;I)Z 4097 1 7681 0 416
+ciMethod java/lang/String startsWith (Ljava/lang/String;)Z 4097 1 95014 0 352
+ciMethod java/lang/String hashCode ()I 2761 32769 7881 0 320
+ciMethod java/util/Map get (Ljava/lang/Object;)Ljava/lang/Object; 0 0 1 0 -1
+ciMethod java/lang/Character toLowerCase (C)C 4097 1 16252 0 -1
+ciMethod java/lang/Character toUpperCase (C)C 2049 1 11514 0 -1
+ciMethod java/util/Collection iterator ()Ljava/util/Iterator; 0 0 1 0 -1
+ciMethod java/util/AbstractCollection <init> ()V 289 1 177575 0 32
+ciMethod java/util/AbstractCollection add (Ljava/lang/Object;)Z 0 0 1 0 -1
+ciMethod java/util/AbstractCollection addAll (Ljava/util/Collection;)Z 56521 210913 8861 0 0
+ciMethod java/util/Set contains (Ljava/lang/Object;)Z 0 0 1 0 -1
+ciMethod java/util/Set iterator ()Ljava/util/Iterator; 0 0 1 0 -1
+ciMethod java/util/Set add (Ljava/lang/Object;)Z 0 0 1 0 -1
+ciMethod java/util/Set addAll (Ljava/util/Collection;)Z 0 0 1 0 -1
+ciMethod java/util/AbstractSet <init> ()V 65 1 24202 0 32
+ciMethod java/util/AbstractMap <init> ()V 369 1 36140 0 32
+ciMethod java/util/HashMap hash (Ljava/lang/Object;)I 18265 1 68302 0 160
+ciMethod java/util/HashMap <init> ()V 121 1 18898 0 32
+ciMethod java/util/HashMap get (Ljava/lang/Object;)Ljava/lang/Object; 2081 1 26227 0 704
+ciMethod java/util/HashMap getNode (ILjava/lang/Object;)Ljava/util/HashMap$Node; 4097 81 5985 0 544
+ciMethod java/util/HashMap put (Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object; 4097 1 19110 0 -1
+ciMethod java/util/HashMap keySet ()Ljava/util/Set; 2129 1 5464 0 192
+ciMethod java/util/Iterator hasNext ()Z 0 0 1 0 -1
+ciMethod java/util/Iterator next ()Ljava/lang/Object; 0 0 1 0 -1
+ciMethod java/util/LinkedHashMap keySet ()Ljava/util/Set; 4097 1 5069 0 0
+ciMethod java/lang/Enum ordinal ()I 1065 1 133 0 -1
+ciMethodData java/lang/Object <init> ()V 2 1159531 orig 264 104 147 73 84 0 0 0 0 128 4 25 41 0 0 0 0 32 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 89 123 141 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 255 255 255 0 0 0 0 0 0 0 0 data 0 oops 0
+ciMethod java/util/HashMap$TreeNode getTreeNode (ILjava/lang/Object;)Ljava/util/HashMap$TreeNode; 0 0 1 0 -1
+ciMethodData java/lang/String hashCode ()I 2 143400 orig 264 104 147 73 84 0 0 0 0 0 80 25 41 0 0 0 0 152 1 0 0 96 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 16 0 0 129 235 0 0 65 1 17 0 21 25 0 0 129 223 1 0 2 0 0 0 1 0 11 0 2 0 0 0 120 0 0 0 255 255 255 255 7 0 6 0 0 0 0 0 data 15 0x60007 0x113a 0x78 0xc36 0xee007 0x5 0x58 0xc32 0x1e0007 0xc30 0x38 0x2200e 0x2d0003 0x2200e 0xffffffffffffffe0 oops 0
+ciMethod java/util/Hash

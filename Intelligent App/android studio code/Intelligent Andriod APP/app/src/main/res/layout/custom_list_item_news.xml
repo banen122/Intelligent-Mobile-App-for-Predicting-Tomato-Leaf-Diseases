@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+
+    <TextView
+        android:id="@+id/txt_topic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/lvnews2"
+        android:backgroundTint="#D8E3D6"
+        android:text="@string/home_no_output"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txt_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_topic"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/lvnews"
+        android:backgroundTint="#D8E3D6"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingBottom="20dp"
+        android:text="@string/custom_list_itemon_character_type_columns_sorting_like_all_other_comparison_operations_is_normally_performed_in_a_case_insensitive_fashion_this_means_that_the_order_is_undefined_for_columns_that_are_identical_except_for_their_case_you_can_force_a_case_sensitive_sort_for_a_column_by_using_binary_like_so_order_by_binary_col_name"
+        android:textAlignment="center"
+        android:textSize="16sp" />
+</RelativeLayout>
+

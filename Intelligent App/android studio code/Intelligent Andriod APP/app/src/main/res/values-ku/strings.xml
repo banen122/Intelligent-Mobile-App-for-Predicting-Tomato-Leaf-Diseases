@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ناوی پڕۆژە</string>
+    <string name="username">ناوی بەکارهێنەر</string>
+    <string name="password">وشەی نهێنی</string>
+    <string name="log_in">چوونە ژوورەر</string>
+    <string name="about_us_text">دەربارەی ئێمە</string>
+    <string name="about_us_guest">دەربارەی ئێمە</string>
+    <string name="contact_subject">بابەت</string>
+    <string name="contact_message">نامە</string>
+    <string name="contact_submet">ناردن</string>
+    <string name="crop_crop_information">زانیاری دەربارەی دانەوێڵە</string>
+    <string name="spiner_farm_name">ناوی کێڵگە</string>
+    <string name="crop_done">تەواو</string>
+    <string name="farm_farm_information">زانیاری دەربارەی کێڵگەکە</string>
+    <string name="Edit_farm_name">ناوی کێڵگە</string>
+    <string name="Edit_location">شوێن</string>
+    <string name="Edit_space">بۆشایی</string>
+    <string name="Farm_next">دواتر</string>
+    <string name="guest_select">هەڵبژاردن</string>
+    <string name="guest_upload">ناردن</string>
+    <string name="guest_disease">نەخۆشی</string>
+    <string name="guest_no_output">بێ ئەنجام</string>
+    <string name="guest_treatment">چارەسەر</string>
+    <string name="guest_clinic_center">ناوەندی بینگە</string>
+    <string name="home_select">هەڵبژرادن</string>
+    <string name="home_upload">ناردن</string>
+    <string name="home_disease">نەخۆشی</string>
+    <string name="home_no_output">بێ ئەنجام</string>
+    <string name="home_treatment">چارەسەر</string>
+    <string name="home_clinic_center">ناوەندی بینگە</string>
+    <string name="inbox_message_from_server">نامەی ڕاژەکار</string>
+    <string name="login_welcome_back">بەخێربێیتەوە</string>
+    <string name="login_login_to_your_account">چوونەژوورەوە بۆناو هەژمار</string>
+    <string name="login_remember_me">هەژمارەکە لەبیرمەکە</string>
+    <string name="login_don_t_have_an_account">هەژماری نییە؟</string>
+    <string name="login_sign_up">تۆمار کردن</string>
+    <string name="login_login">چوونەژوورەوە</string>
+    <string name="login_guest">میوان</string>
+    <string name="startpoint_welcome">بەخێربێن</string>
+    <string name="startpoint_protect_life_of_your_plant_with_the_application_easier_and_more_convenient_to_use">لەگەڵ ئەم بەرنامەیە، بە ئاسانترین و باشترین شێواز، ڕووەکەکانت بپارێزە</string>
+    <string name="startpoint_start">دەستپێکردن</string>
+    <string name="custom_list_1">١</string>
+    <string name="custom_employee_name">ناوی کارمەند</string>
+    <string name="custom_empty_inbox">بەتاڵ</string>
+    <string name="custom_list_item_topic">بابەت</string>
+    <string name="custom_list_itemon_character_type_columns_sorting_like_all_other_comparison_operations_is_normally_performed_in_a_case_insensitive_fashion_this_means_that_the_order_is_undefined_for_columns_that_are_identical_except_for_their_case_you_can_force_a_case_sensitive_sort_for_a_column_by_using_binary_like_so_order_by_binary_col_name">On character type columns, sorting—like all other comparison operations—is normally performed in a case-insensitive fashion. This means that the order is undefined for columns that are identical except for their case. You can force a case-sensitive sort for a column by using BINARY like so: ORDER BY BINARY col_name.</string>
+    <string name="main_toolbar_mobile_intelligent">ژیری مۆبایل</string>
+    <string name="progress_dialog_loading">ئامادەکردن...</string>
+    <string name="register_already_have_an_account">هەژمارت هەیە؟</string>
+    <string name="register_register">تۆمارکردن</string>
+    <string name="register_create_your_new_account">هەژمار درووستبکە</string>
+    <string name="register_sign_up">تۆمار کردن</string>
+    <string name="register_username">ناوی بەکارهێنەر</string>
+    <string name="register_phone_number">ژمارەی مۆبایل</string>
+    <string name="register_password">وشەی نهێنی</string>
+    <string name="register_confirm_password">دووپاتکردنەوەی وشەی نهێنی</string>
+    <string name="verify_insert_code">کۆدەکە داخڵ بکە</string>
+    <string name="verify_submit">ناردن</string>
+
+    <string name="home_home">ماڵپەری سەرەکی</string>
+    <string name="home_news">هەواڵەکان</string>
+    <string name="home_history">مێژوو</string>
+    <string name="home_feedback">ڕاوبۆچوون</string>
+    <string name="home_inbox">نامەکان</string>
+    <string name="home_about">دەربارەی ئێمە</string>
+    <string name="home_logout">دەرچوون</string>
+
+    <string name="guest_home">ماڵپەری سەرەکی</string>
+    <string name="guest_about">دەربارەی ئێمە</string>
+    <string name="guest_logout">دەرچوون</string>
+    <string name="chose_type">جۆرێکی ڕووەک هەڵبژێرە</string>
+    <string name="typess">دۆخی ڕووەکەکە هەڵبژێرە</string>
+    <string name="plantty">وەرزی ڕووەکەکە هەڵبژێرە</string>
+    <string name="messagewa">ئەم پڕۆژەیە تەنها تەماتە دەخوێنێتەوە</string>
+    <string name="fill">تکایە زانیاریەکان پڕبکەرەوە</string>
+    <string name="logout">دەرچوون</string>
+
+    <string-array name="languegs">
+        <item>زمانەکان</item>
+        <item>ئینگلیزی</item>
+        <item>کوردی</item>
+        <item>عەرەبی</item>
+    </string-array>
+
+    <string-array name="type">
+        <item>جۆرێکی ڕووەک هەڵبژێرە</item>
+        <item>Tomato</item>
+        <item>Radish</item>
+        <item>Green pepper</item>
+        <item>potatoes</item>
+    </string-array>
+
+    <string-array name="state">
+        <item>دۆخی ڕووەکەکە هەڵبژێرە</item>
+        <item>coverd</item>
+        <item>uncoverd</item>
+    </string-array>
+
+    <string-array name="type_plant">
+        <item>وەرزی ڕووەکەکە هەڵبژێرە</item>
+        <item>winter</item>
+        <item>summer</item>
+    </string-array>
+
+
+</resources>

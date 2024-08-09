@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Intelligent Mobile/work practical/phone number log in/app/src/main/res/layout/activity_home_page.xml" value="0.1" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone number log in/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone number log in/app/src/main/res/layout/verify_popup.xml" value="0.1" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable-v24/background_btn.xml" value="0.21614583333333334" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable-v24/circle.xml" value="0.1" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable-v24/ic_baseline_notifications_active_24.xml" value="0.2128205128205128" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable-v24/lvnews2.xml" value="0.21614583333333334" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable/background_btn.xml" value="0.1" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable/background_edittext.xml" value="0.21614583333333334" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable/bg_round.xml" value="0.21614583333333334" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable/btnoutlinedesign.xml" value="0.21614583333333334" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable/camuploadbtn.xml" value="0.21614583333333334" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable/circle.xml" value="0.1" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable/ic_backbtn.xml" value="0.21614583333333334" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable/ic_email.xml" value="0.21614583333333334" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21614583333333334" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.21614583333333334" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable/ic_lock.xml" value="0.21614583333333334" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable/ic_menu.xml" value="0.21614583333333334" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable/ic_person.xml" value="0.21614583333333334" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable/ic_phone.xml" value="0.21614583333333334" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable/ic_upload.xml" value="0.21614583333333334" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable/lvnews.xml" value="0.1" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable/lvnews2.xml" value="0.1" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/drawable/tabdesign.xml" value="0.21614583333333334" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/activity_aboutus.xml" value="0.14945652173913043" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/activity_aboutusguest.xml" value="0.1" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/activity_contact.xml" value="0.15" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/activity_contactus.xml" value="0.2" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/activity_crop.xml" value="0.2" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/activity_farm.xml" value="0.16" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/activity_fetch_guest.xml" value="0.12" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/activity_guest.xml" value="0.2" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/activity_history.xml" value="0.18" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/activity_home.xml" value="0.18" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/activity_home2.xml" value="0.2" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/activity_home_page.xml" value="0.19157608695652173" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/activity_login.xml" value="0.16" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/activity_main2.xml" value="0.2" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/activity_news.xml" value="0.14945652173913043" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/activity_startpoint.xml" value="0.2" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/custom_list_item_history.xml" value="0.14945652173913043" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/custom_list_item_news.xml" value="0.16" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/fragment_aboutus.xml" value="0.17844202898550723" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/fragment_history.xml" value="0.17844202898550723" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/fragment_news.xml" value="0.17844202898550723" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/fragment_uploadimage.xml" value="0.17844202898550723" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/item_drawer_main.xml" value="0.22" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/main_nav_drawer.xml" value="0.14945652173913043" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/main_toolbar.xml" value="0.14945652173913043" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/progress_dialog.xml" value="0.2" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/register.xml" value="0.25" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/slider_item.xml" value="0.16485507246376813" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/success.xml" value="0.25" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/tabdesign.xml" value="0.17844202898550723" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/test.xml" value="0.1671195652173913" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/layout/verify_popup.xml" value="0.22" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21614583333333334" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone/phone_number_log_in/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21614583333333334" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone_number_log_in/app/src/main/res/layout/activity_home_page.xml" value="0.1" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone_number_log_in/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone_number_log_in/app/src/main/res/layout/fragment_history.xml" value="0.2" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone_number_log_in/app/src/main/res/layout/register.xml" value="0.1859375" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone_number_log_in/app/src/main/res/layout/success.xml" value="0.2" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone_number_log_in/app/src/main/res/layout/verify_popup.xml" value="0.2" />
+        <entry key="..\:/Intelligent Mobile/work practical/phone_number_log_in/app/src/main/res/xml/network_security_config.xml" value="0.1" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/activity_aboutus.xml" value="0.25" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/activity_aboutusguest.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/activity_contactus.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/activity_crop.xml" value="0.18" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/activity_farm.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/activity_fetch_guest.xml" value="0.16" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/activity_guest.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/activity_history.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/activity_home.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/activity_home2.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/activity_inbox.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/activity_login.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/activity_news.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/activity_startpoint.xml" value="0.25" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/custom_list_item_history.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/custom_list_item_inbox.xml" value="0.1" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/custom_list_item_news.xml" value="0.22" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/item_drawer_main.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/main_nav_drawer.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/main_toolbar.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/progress_dialog.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/register.xml" value="0.19067028985507245" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/slider_item.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/Ali/Desktop/phone_number_log_in/app/src/main/res/layout/verify_popup.xml" value="0.19157608695652173" />
+        <entry key="..\:/androidfinal/final/phone_number_log_in/app/src/main/res/layout/activity_news.xml" value="0.18432971014492755" />
+        <entry key="..\:/androidfinal/final/phone_number_log_in/app/src/main/res/layout/custom_list_item_news.xml" value="0.18432971014492755" />
+        <entry key="..\:/fileandroidserver/phone_number_log_in/app/src/main/res/layout/activity_logout.xml" value="0.10778985507246377" />
+        <entry key="..\:/phone_number_log_in/app/src/main/res/layout/activity_crop.xml" value="0.18885869565217392" />
+        <entry key="..\:/phone_number_log_in/app/src/main/res/layout/activity_farm.xml" value="0.18885869565217392" />
+        <entry key="..\:/phone_number_log_in/app/src/main/res/layout/activity_history.xml" value="0.18885869565217392" />
+        <entry key="..\:/phone_number_log_in/app/src/main/res/layout/activity_home.xml" value="0.18885869565217392" />
+        <entry key="..\:/phone_number_log_in/app/src/main/res/layout/activity_home2.xml" value="0.18885869565217392" />
+        <entry key="..\:/phone_number_log_in/app/src/main/res/layout/activity_inbox.xml" value="0.18885869565217392" />
+        <entry key="..\:/phone_number_log_in/app/src/main/res/layout/activity_login.xml" value="0.18885869565217392" />
+        <entry key="..\:/phone_number_log_in/app/src/main/res/layout/activity_news.xml" value="0.18885869565217392" />
+        <entry key="..\:/phone_number_log_in/app/src/main/res/layout/activity_startpoint.xml" value="0.18885869565217392" />
+        <entry key="..\:/phone_number_log_in/app/src/main/res/layout/register.xml" value="0.18885869565217392" />
+        <entry key="..\:/phone_number_log_in/app/src/main/res/layout/verify_popup.xml" value="0.18885869565217392" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
